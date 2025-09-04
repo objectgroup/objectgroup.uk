@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0">
+<channel>
+	<title>[object][group]</title>
+	<link>https://objectgroup.uk</link>
+	<description>A frivolous cartoonist in East Anglia</description>
+	<language>en-uk</language>
+	<image>
+ 		<title>[object][group]</title>
+ 		<link>https://objectgroup.uk</link>
+ 		 <url>https://objectgroup.uk/images/logo/Objectgroup-cherry-plain.svg</url>
+ 		<width>150</width>
+ 		<height>150</height>
+	</image>
+	<pubdate>Mon, 01, Sep, 2025, 12:30:0 GMT</pubdate>
+	<copyright>Copyright 2025, [object][group]</copyright>
+		<item>
+			<pubdate>Mon, 01, Sep, 2025, 12:30:0 GMT</pubdate>
+			<title>Notes for September  2025</title>
+			<link>https://objectgroup.uk/2025/9</link>
+			<description>the adventures of stilton character sheets</description>
+			<author>lisa@objectgroup.uk</author>
+			<source>https://objectgroup.uk/rss.xml</source>
+			<category>after drawing some characters it isn't obvious what they are going feel like to draw over and over so character sheets where you can try the character out from different angles and are perfect to familiarise yourself but there is jeopardy as you can fall in or out of love with drawing a character </category>
+		</item>
+		<item>
+			<pubdate>Fri, 01, Aug, 2025, 12:30:0 GMT</pubdate>
+			<title>Notes for August  2025</title>
+			<link>https://objectgroup.uk/2025/8</link>
+			<description>the adventures of stilton character design process</description>
+			<author>lisa@objectgroup.uk</author>
+			<source>https://objectgroup.uk/rss.xml</source>
+			<category>An introduction to a new comic called the Adventures of Stilton and the heart of the story and then a few of the ways to create new character outlines so the characters look different from each other</category>
+		</item>
+		<item>
+			<pubdate>Tue, 01, Jul, 2025, 12:30:0 GMT</pubdate>
+			<title>Notes for July  2025</title>
+			<link>https://objectgroup.uk/2025/7</link>
+			<description>MACC-POW</description>
+			<author>lisa@objectgroup.uk</author>
+			<source>https://objectgroup.uk/rss.xml</source>
+			<category>Attending a comic conference and all the ways that is fun</category>
+		</item>
+</channel>
+</rss>

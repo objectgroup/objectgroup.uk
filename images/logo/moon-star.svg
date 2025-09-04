@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+
+   width="90.356949mm"
+   height="69.486366mm"
+   viewBox="0 0 90.356949 69.486366"
+   version="1.1"
+   id="svg903"
+   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
+   sodipodi:docname="moon-star.svg"
+   inkscape:export-filename="/home/lisa/Desktop/programes/website/objectgroup/trying out responsive webpages/snooze-paper/images/logo/moon-star.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview905"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="110mm"
+     inkscape:zoom="2.3162177"
+     inkscape:cx="98.004604"
+     inkscape:cy="95.845912"
+     inkscape:window-width="1375"
+     inkscape:window-height="876"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs900" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(143.8698,-129.31188)">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:5.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -97.91092,140.43722 c 53.0021,-33.59286 57.16696,42.53436 3.22874,55.67773 -57.01246,-9.13149 -65.77933,-86.94577 -3.22874,-55.67773 z"
+       id="path1660-3-8-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.344225px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -106.74063,140.09099 -8.58259,13.06689 -14.09333,-3.49987 10.37945,9.82303 -14.19295,7.00056 18.24924,-0.89142 10.50785,14.48514 -0.0716,-16.71661 13.080868,-5.02592 -15.290918,-4.6333 z"
+       id="path936-7-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.373976px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -82.09723,141.46219 c 30.38643,18.18436 12.57996,53.28702 -19.27262,33.00762 19.14861,0.23486 26.85457,-18.69025 19.27262,-33.00762 z"
+       id="path938-9-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+  </g>
+  
+</svg>

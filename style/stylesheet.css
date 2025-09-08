@@ -80,7 +80,17 @@ nav{
 	justify-content: space-around;
 }
 
+.bodyIndex{
+	height: 100%;
+	width: 100%;
+	display: flex;
+	position: fixed;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
 .indexMenu{
 	display: flex;
-	flex-direction: column;
+	gap; 1em;
 }

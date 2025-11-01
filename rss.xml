@@ -11,43 +11,52 @@
  		<width>150</width>
  		<height>150</height>
 	</image>
-	<pubdate>Wed, 01, Oct, 2025, 12:30:0 GMT</pubdate>
+	<pubdate>Sat, 01, Nov, 2025, 12:30:0 GMT</pubdate>
 	<copyright>Copyright 2025, [object][group]</copyright>
+		<item>
+			<pubdate>Sat, 01, Nov, 2025, 12:30:0 GMT</pubdate>
+			<title>Notes for November  2025</title>
+			<link>https://objectgroup.uk/2025/11</link>
+			<description>I explain how I wrote a short story called A Reporter of Rare Discoveries which is an intricately interconnected tale and some updates on the Adventures of Stilton backgrounds and settings and a little publication I made called the Snooze Paper </description>
+			<author>lisa@objectgroup.uk</author>
+			<source>https://objectgroup.uk/rss.xml</source>
+			<category>perspective drawing interconnected tales in reporter of rare discovereies The Adventures of Stilton backgrounds settings snooze paper history</category>
+		</item>
 		<item>
 			<pubdate>Wed, 01, Oct, 2025, 12:30:0 GMT</pubdate>
 			<title>Notes for October  2025</title>
 			<link>https://objectgroup.uk/2025/10</link>
-			<description>background drawing Milt Gross Codex Aureus of Lorsch Saint-Sever Beatus</description>
+			<description>The Adventures of Stilton has comic backgrounds that are being drawn from the point of view of mice who are innocent to the world and also from the point of view that the person drawing them has to enjoy the process and so some history of drawing really helps find a balance</description>
 			<author>lisa@objectgroup.uk</author>
 			<source>https://objectgroup.uk/rss.xml</source>
-			<category>The Adventures of Stilton has comic backgrounds that are being drawn from the point of view of mice who are innocent to the world and also from the point of view that the person drawing them has to enjoy the process and so some history of drawing really helps find a balance</category>
+			<category>background drawing Milt Gross Codex Aureus of Lorsch Saint-Sever Beatus The Adventures of Stilton</category>
 		</item>
 		<item>
 			<pubdate>Mon, 01, Sep, 2025, 12:30:0 GMT</pubdate>
 			<title>Notes for September  2025</title>
 			<link>https://objectgroup.uk/2025/9</link>
-			<description>the adventures of stilton character sheets</description>
+			<description>After drawing some characters it isn't obvious what they are going feel like to draw over and over so character sheets where you can try the character out from different angles and are perfect to familiarise yourself but there is jeopardy as you can fall in or out of love with drawing a character</description>
 			<author>lisa@objectgroup.uk</author>
 			<source>https://objectgroup.uk/rss.xml</source>
-			<category>After drawing some characters it isn't obvious what they are going feel like to draw over and over so character sheets where you can try the character out from different angles and are perfect to familiarise yourself but there is jeopardy as you can fall in or out of love with drawing a character</category>
+			<category>the adventures of stilton character sheets</category>
 		</item>
 		<item>
 			<pubdate>Fri, 01, Aug, 2025, 12:30:0 GMT</pubdate>
 			<title>Notes for August  2025</title>
 			<link>https://objectgroup.uk/2025/8</link>
-			<description>the adventures of stilton character design process</description>
+			<description>An introduction to a new comic called the Adventures of Stilton and the heart of the story and then a few of the ways to create new character outlines so the characters look different from each other</description>
 			<author>lisa@objectgroup.uk</author>
 			<source>https://objectgroup.uk/rss.xml</source>
-			<category>An introduction to a new comic called the Adventures of Stilton and the heart of the story and then a few of the ways to create new character outlines so the characters look different from each other</category>
+			<category>the adventures of stilton character design process</category>
 		</item>
 		<item>
 			<pubdate>Tue, 01, Jul, 2025, 12:30:0 GMT</pubdate>
 			<title>Notes for July  2025</title>
 			<link>https://objectgroup.uk/2025/7</link>
-			<description>MACC-POW</description>
+			<description>Attending a comic conference called MACC-POW and all the ways that was fun</description>
 			<author>lisa@objectgroup.uk</author>
 			<source>https://objectgroup.uk/rss.xml</source>
-			<category>Attending a comic conference and all the ways that is fun</category>
+			<category>MACC-POW</category>
 		</item>
 </channel>
 </rss>

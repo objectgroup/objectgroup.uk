@@ -8,12 +8,12 @@
 html { 
 	--redcolor: #FF3B30FF;
 	--greencolor: #30D158FF;
-	--darkbgcolor: #F2F2F7FF;
-	--lightbgcolor: #1C1C1EFF;
+	--lightbgcolor: #F2F2F7FF;
+	--darkbgcolor: #1C1C1EFF;
   	color-scheme: light dark; 
  	--accent: light-dark(var(--redcolor), var(--greencolor));
-  	--fg: light-dark(var(--lightbgcolor), var(--darkbgcolor));
-  	--bg: light-dark(var(--darkbgcolor), var(--lightbgcolor));
+  	--fg: light-dark(var(--darkbgcolor), var(--lightbgcolor));
+  	--bg: light-dark(var(--lightbgcolor), var(--darkbgcolor));
 	background-color: var(--bg);
 	color: var(--fg);
   	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;

@@ -64,6 +64,11 @@ blockquote {
 	border: 1px solid red;
 }
 
+section {
+    padding: 1rem;
+ 	border: 1px solid #F5B027;
+}
+
 p {
   // Help prevent overflow of long words/names/URLs
   	word-break: break-word;

@@ -65,8 +65,7 @@ blockquote {
 }
 
 section {
-    padding: 1rem;
- 	border: 1px solid #F5B027;
+ 	border: 1px solid var(--greencolor);
 }
 
 p {

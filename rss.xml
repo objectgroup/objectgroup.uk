@@ -11,8 +11,17 @@
  		<width>150</width>
  		<height>150</height>
 	</image>
-	<pubdate>Sun, 6, Sep, 2026, 11:19:48 GMT</pubdate>
+	<pubdate>Wed, 14, Oct, 2026, 11:24:50 +01:00</pubdate>
 	<copyright>Copyright 2026, [object][group]</copyright>
+		<item>
+			<pubdate>Wed, 14, Oct, 2026, 11:24:50 +01:00</pubdate>
+			<title>Notes for October  2026</title>
+			<link>https://objectgroup.uk/2026/10</link>
+			<description>In this note I share some creative nonfiction also known as a true story about the time my school teacher brought into class a prism and it went missing.</description>
+			<author>lisa@objectgroup.uk</author>
+			<source>https://objectgroup.uk/rss.xml</source>
+			<category>dramatic tension writing</category>
+		</item>
 		<item>
 			<pubdate>Sun, 6, Sep, 2026, 11:19:48 GMT</pubdate>
 			<title>Notes for September  2026</title>
@@ -138,15 +147,6 @@
 			<author>lisa@objectgroup.uk</author>
 			<source>https://objectgroup.uk/rss.xml</source>
 			<category>the adventures of stilton character design process</category>
-		</item>
-		<item>
-			<pubdate>Tue, 01, Jul, 2025, 12:30:0 GMT</pubdate>
-			<title>Notes for July  2025</title>
-			<link>https://objectgroup.uk/2025/7</link>
-			<description>Attending a comic conference called MACC-POW and all the ways that was fun</description>
-			<author>lisa@objectgroup.uk</author>
-			<source>https://objectgroup.uk/rss.xml</source>
-			<category>MACC-POW</category>
 		</item>
 </channel>
 </rss>
